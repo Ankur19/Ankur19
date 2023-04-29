@@ -1,7 +1,6 @@
 ### Hi there..!! My name is Ankur
 
-- 🔭 I’m currently working on ```Benchmarking Docker IO```, ```A Multithreaded Client/Server```, ```www.gyanarjon.tech```
-- 👯 I’m looking for Full time opportunities starting Summer 2021
+- 🔭 I’m currently working on ```Benchmarking Docker IO```, ```A Multithreaded Client/Server```, ```openconfig/featureprofiles```
 - 🌱 I’m currently learning ```Distributed Systems```
 - ⚡ Fun fact: I love to work on applications that have a ```social impact``` and ```integrations``` in large scale distributed systems
 
